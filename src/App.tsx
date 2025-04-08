@@ -38,7 +38,7 @@ function App() {
             </div>
             <div className="flex-1">
               <img
-                src="./public/photo.jpg"
+                src="./photo.jpg"
                 alt="Bisrat Abrham - Cloud Solutions Architect"
                 className="rounded-full w-64 h-64 object-cover mx-auto shadow-lg"
               />
